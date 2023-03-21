@@ -1,7 +1,24 @@
 
 
-#banner{
+.banner{
     background-color: #228b22;
     background-color: #014421;
     color: white;
+}
+
+.heading{
+    background-color: white;
+    color: black;
+}
+
+.main-content{
+    background-color: white;
+    color: black;
+}
+.p-color{
+ 
+ background-color: white;   
+ color: rgb(182, 25, 77);
+
+
 }
